@@ -1,0 +1,18 @@
+1) Qual a diferença entre dados e  informação ?
+   Os dados são uma abstração que representam fatos brutos, quantificados e quantifícaveis originados de alguma entidade ou evento. Ja a informação é a interpretação organizada e contextualizada desses dados, com o objetivo de resolver uma determinada questão
+
+2) Quais as funcionalidade de um SGBD ?
+   Um SGB é responsável por cuidar da persistência, organização e recuperação dos dados, e manipulação e gerenciamento de dados.
+
+3) Explique o conceito de um banco de dados relacional?
+   Um Banco de Dados Relacional é um conceito abstrato que determina o gerencimento dos dados por meio de tabelas relacionais.
+
+4) Como e uma composição de uma tabela ?
+   Uma tabela nada mais é do que uma estrutura de linhas e colunas. Cada linha contém o mesmo número de colunas determinado pelo BDR.
+
+5) Qual a utilidade de uma chave em uma tabela?
+   Uma chave serve para ser o identificador máximo daquela tabela. É o dado principal que você buscará ao tentar encontrar algum dado da tabela.
+
+
+6) Explique a relação de PK com FK ?
+   Uma PK (Primary Key) é a chave principal de uma tabela, sendo a chave identificadora para buscar ou deletar dados da tabela. A FK (Foreign Key) é a chave estrangeira, criada somente em contextos de relações entre tabelas, puxando a PK de outra tabela. Servem para co-relacionar os dados das tabelas fazendo com que a integridade e manipulação desses dados permaneçam consistentes.
